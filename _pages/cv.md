@@ -11,4 +11,4 @@ MS+PhD Graduate Student at Machine Learning Lab in POSTECH, Sangdon Park (Feb. 2
 
 Publications
 ======
-* Yang, J., et al. (2024). "Online Conformal Prediction with Adversarial Feedback via Regret Minimization." OpenReview. [Paper](https://openreview.net/forum?id=RMWcdp5IUy)
+* Junyoung Yang, Kyungmin Kim, Sangdon Park (2026). "Online Conformal Prediction with Adversarial Feedback via Regret Minimization." ICLR 2026. [Paper](https://openreview.net/forum?id=RMWcdp5IUy)
