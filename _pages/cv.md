@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-MS+PhD Graduate Student at Machine Learning Lab in POSTECH, Sangdon Park (Feb. 2025 ~ )
+MS+PhD Graduate Student at Machine Learning Lab in POSTECH, Sangdon Park (Feb. 2025~)
 
 Publications
 ======
