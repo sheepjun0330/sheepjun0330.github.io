@@ -17,10 +17,8 @@ Education
 
 Work experience
 ======
-* Feb. 2025 – Present: MS+PhD Graduate Student
-  * Machine Learning Lab, POSTECH
-  * Advisor: Sangdon Park
-  
+* MS+PhD Graduate Student at Machine Learning Lab in POSTECH, Sangdon Park (Feb. 2025 ~ )
+
 Skills
 ======
 * Machine Learning
@@ -31,10 +29,8 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Yang, J., et al. (2024). "Online Conformal Prediction with Adversarial Feedback via Regret Minimization." OpenReview. [Link](https://openreview.net/forum?id=RMWcdp5IUy)
+
 Teaching
 ======
 * Statistical Data Mining [Spring 2022]
