@@ -1,20 +1,15 @@
 ---
-layout: single
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-Publications
-======
+{% include base_path %}
 
-**Online Conformal Prediction with Adversarial Feedback via Regret Minimization**
-
-Authors: Junyoung Yang, Kyungmin Kim, Sangdon Park
-
-Published in ICLR 2026
-
-[Paper](https://openreview.net/forum?id=RMWcdp5IUy)
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 
