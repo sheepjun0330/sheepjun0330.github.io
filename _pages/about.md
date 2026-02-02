@@ -1,13 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Junyoung Yang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Introduction
+======
+
+I am a second-year M.S./Ph.D. student in the **Graduate School of AI at POSTECH**, where I am a member of the Machine Learning Lab and fortunate to be advised by **Sangdon Park**. My current research interests largely lie in the safe and trustworthy deployment of large language models.
+
+My research focuses on **machine learning and trustworthy AI**, with particular interests in selective generation, conformal prediction, prompt learning, and large language models.
+
+About Me
+======
+
+While pursuing an M.S. in Industrial and Management Engineering at POSTECH advised by Minwoo Chae, I worked on a number of statistical data analysis projects in the industry domain, applying Bayesian and computational statistics methodologies. Prior to joining POSTECH, I also worked as a student researcher in the Design Informatics Lab at Hanyang University, where I developed a computational interaction algorithm that assists users in efficiently searching the design space, generalizing the concept of Bayesian information gain. I earned a B.E. in Statistics at Korea University.
 
 A data-driven personal website
 ======
